@@ -1,4 +1,4 @@
-## Datasets & Trained NER model removed for confidentiality reasons
+## Datasets, Trained NER model & some code removed due to confidentiality agreement
 
 ## Datasets
 Datasets contains sets of unlabelled data, labelled data and models trained from the labelled data
